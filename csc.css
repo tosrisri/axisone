@@ -1,0 +1,13 @@
+body {
+    background: #eee url(images/bg1.jpg) top center no-repeat;
+    font-family: 'Quicksand', sans-serif;
+    color: #555;
+}
+h1, h2, h3, h4 {
+    font-family: 'Merriweather', serif;
+    font-weight: bold
+
+}
+img {
+    box-shadow: 1px 1px 4px #222;
+}
